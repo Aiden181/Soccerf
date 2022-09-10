@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "name": "AC Milan",
+    "stadium": "San Siro Stadium",
+    "country": "Italy",
+    "reputation": 3,
+    "description": "Associazione Calcio Milan commonly referred to as AC Milan or simply Milan, is a professional football club in Milan, Italy, founded in 1899. The club has spent its entire history, with the exception of the 1980–81 and 1982–83 seasons, in the top flight of Italian football, known as Serie A since 1929–30.",
+    "link": "https://en.wikipedia.org/wiki/A.C._Milan",
+    "imageName": "ACMilan",
+    "coordinates": {
+      "longitude": 9.124047703242724,
+      "latitude": 45.47896481689284
+    }
+  },
+  {
+    "id": 2,
+    "name": "FC Barcelona",
+    "stadium": "Spotify Camp Nou",
+    "country": "Spain",
+    "reputation": 5,
+    "description": "Futbol Club Barcelona commonly referred to as Barcelona and colloquially known as Barça is a professional football club based in Barcelona, Catalonia, Spain, that competes in La Liga, the top flight of Spanish football. Founded in 1899 by a group of Swiss, Catalan, German, and English footballers led by Joan Gamper, the club has become a symbol of Catalan culture and Catalanism, hence the motto Més que un club - More than a club.",
+    "link": "https://en.wikipedia.org/wiki/FC_Barcelona",
+    "imageName": "Barcelona",
+    "coordinates": {
+      "longitude": 2.122905495640538,
+      "latitude": 41.38250469002818
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bayern Munich",
+    "stadium": "Allianz Arena",
+    "country": "Germany",
+    "reputation": 4,
+    "description": "Fußball-Club Bayern München e. V. also known as FC Bayern is a German professional sports club based in Munich, Bavaria. It is best known for its professional football team, which plays in the Bundesliga, the top tier of the German football league system. Bayern is the most successful club in German football history, having won a record 32 national titles, including 10 consecutively since 2013, and 20 national cups, along with numerous European honours.",
+    "link": "https://en.wikipedia.org/wiki/FC_Bayern_Munich",
+    "imageName": "Bayern",
+    "coordinates": {
+      "longitude": 11.625012870059944,
+      "latitude": 48.21950610928186
+    }
+  },
+  {
+    "id": 4,
+    "name": "Chelsea FC",
+    "stadium": "Stamford Bridge",
+    "country": "England",
+    "reputation": 4,
+    "description": "Chelsea Football Club is an English professional football club based in Fulham, in the western parts of London. Founded in 1905, they play their home games at Stamford Bridge. The club competes in the Premier League, the top division of English football. They won their first major honour, the League championship, in 1955. The club won the FA Cup for the first time in 1970, their first European honour, the Cup Winners' Cup, in 1971, and becoming only the third English club to win the Club World Cup in 2022.",
+    "link": "https://en.wikipedia.org/wiki/Chelsea_F.C.",
+    "imageName": "Chelsea",
+    "coordinates": {
+      "longitude": -0.19061329240842875,
+      "latitude": 51.4827841821784
+    }
+  },
+  {
+    "id": 5,
+    "name": "Borussia Dortmund",
+    "stadium": "Signal Iduna Park",
+    "country": "Germany",
+    "reputation": 4,
+    "description": "Ballspielverein Borussia 09 e. V. Dortmund, commonly known as Borussia Dortmund is a German professional sports club based in Dortmund, North Rhine-Westphalia. It is best known for its men's professional football team, which plays in the Bundesliga, the top tier of the German football league system. The club have won eight league championships, five DFB-Pokals, one UEFA Champions League, one Intercontinental Cup, and one UEFA Cup Winners' Cup.",
+    "link": "https://en.wikipedia.org/wiki/Borussia_Dortmund",
+    "imageName": "Dortmund",
+    "coordinates": {
+      "longitude": 7.451857284878858,
+      "latitude": 51.49387002776888
+    }
+  },
+  {
+    "id": 6,
+    "name": "Inter Milan",
+    "stadium": "San Siro Stadium",
+    "country": "Italy",
+    "reputation": 4,
+    "description": "Football Club Internazionale Milano, commonly referred to as Internazionale is an Italian professional football club based in Milan, Lombardy. Inter is the only Italian side to have always competed in the top flight of Italian football since its debut in 1909. Inter won its first championship in 1910. Since its formation, the club has won 33 domestic trophies, including 19 league titles, 8 Coppa Italia and 6 Supercoppa Italiana. From 2006 to 2010, the club won five successive league titles, equalling the all-time record at that time.[",
+    "link": "https://en.wikipedia.org/wiki/Inter_Milan",
+    "imageName": "InterMilan",
+    "coordinates": {
+      "longitude": 9.124047703242724,
+      "latitude": 45.47896481689284
+    }
+  },
+  {
+    "id": 7,
+    "name": "Juventus FC",
+    "stadium": "Allianz Stadium",
+    "country": "Italy",
+    "reputation": 4,
+    "description": "Juventus Football Club is a professional football club based in Turin, Piedmont, Italy, that competes in the Serie A, the top tier of the Italian football league system. Founded in 1897 by a group of Torinese students. The club has won 36 official league titles, 14 Coppa Italia titles and nine Supercoppa Italiana titles, being the record holder for all these competitions; two Intercontinental Cups, two European Cups / UEFA Champions Leagues, one European Cup Winners' Cup, a joint national record of three UEFA Cups, two UEFA Super Cups and a joint national record of one UEFA Intertoto Cup.",
+    "link": "https://en.wikipedia.org/wiki/Juventus_F.C.",
+    "imageName": "Juventus",
+    "coordinates": {
+      "longitude": 7.640899649111544,
+      "latitude": 45.110837754158844
+    }
+  },
+  {
+    "id": 8,
+    "name": "Bayer 04 Leverkusen",
+    "stadium": "BayArena",
+    "country": "Germany",
+    "reputation": 3,
+    "description": "Bayer 04 Leverkusen Fußball GmbH, also known as Bayer 04 Leverkusen is a professional football club based in Leverkusen in the state of North Rhine-Westphalia.[4] The club competes in the Bundesliga, the top tier of German football, and plays its home matches at the BayArena. The club was founded in 1904 by employees of the German pharmaceutical company Bayer AG, whose headquarters are in Leverkusen and from which the club draws its name.",
+    "link": "https://en.wikipedia.org/wiki/Bayer_04_Leverkusen",
+    "imageName": "Leverkusen",
+    "coordinates": {
+      "longitude": 7.002084822534276,
+      "latitude": 51.03923322035689
+    }
+  },
+  {
+    "id": 9,
+    "name": "Liverpool FC",
+    "stadium": "Anfield",
+    "country": "England",
+    "reputation": 4,
+    "description": "Liverpool Football Club is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Founded in 1892, the club joined the Football League the following year and has played its home games at Anfield since its formation. Domestically, the club has won nineteen League titles, eight FA Cups, a record nine League Cups and sixteen FA Community Shields. In international competitions, the club has won six European Cups, three UEFA Cups, four UEFA Super Cups—all English records—and one FIFA Club World Cup. The club established itself as a major force in domestic and European football in the 1970s and 1980s.",
+    "link": "https://en.wikipedia.org/wiki/Liverpool_F.C.",
+    "imageName": "Liverpool",
+    "coordinates": {
+      "longitude": -2.9608301108761403,
+      "latitude": 53.4318508537886
+    }
+  },
+  {
+    "id": 10,
+    "name": "Manchester City FC",
+    "stadium": "Etihad Stadium",
+    "country": "England",
+    "reputation": 4,
+    "description": "Manchester City Football Club is an English football club based in Manchester that competes in the Premier League, the top flight of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. The club's home ground is the Etihad Stadium in east Manchester, to which it moved in 2003, having played at Maine Road since 1923. The club adopted their sky blue home shirts in 1894. Having won eight League titles, six FA Cups, eight League Cups, six FA Community Shields and one European Cup Winners Cup, it is the fifth-most successful club in English football.",
+    "link": "https://en.wikipedia.org/wiki/Manchester_City_F.C.",
+    "imageName": "ManCity",
+    "coordinates": {
+      "longitude": 2.2003107658263006,
+      "latitude": 53.48401072037753
+    }
+  },
+  {
+    "id": 11,
+    "name": "S.S.C Napoli",
+    "stadium": "Diego Armando Maradona Stadium",
+    "country": "Italy",
+    "reputation": 3,
+    "description": "Società Sportiva Calcio Napoli, commonly referred to as Napoli is an Italian professional football club based in Naples, Campania that plays in Serie A, the top flight of Italian football. Napoli have won two Serie A titles, six Coppa Italia titles, two SuperCoppa Italiana titles, and one UEFA Cup. The club was formed in 1926 as Associazione Calcio Napoli following the merger of U.S. Internazionale Napoli and Naples Foot-Ball Club. Napoli saw relatively little success in its early years, winning one Coppa Italia in 1962.",
+    "link": "https://en.wikipedia.org/wiki/S.S.C._Napoli",
+    "imageName": "Napoli",
+    "coordinates": {
+      "longitude": 14.19340428671854,
+      "latitude": 40.82949386363992
+    }
+  },
+  {
+    "id": 12,
+    "name": "RB Leipzig",
+    "stadium": "Red Bull Arena",
+    "country": "Germany",
+    "reputation": 3,
+    "description": "RasenBallsport Leipzig e.V. commonly known as RB Leipzig or informally as Red Bull Leipzig, is a German professional football club based in Leipzig, Saxony. The club was founded in 2009 by the initiative of the company Red Bull GmbH, which purchased the playing rights of fifth-tier side SSV Markranstädt with the intent of advancing the new club to the top-flight Bundesliga within eight years. The men's professional football club is run by the spin-off organization RasenBallsport Leipzig GmbH.",
+    "link": "https://en.wikipedia.org/wiki/RB_Leipzig",
+    "imageName": "RBLeipzig",
+    "coordinates": {
+      "longitude": 12.347753800458163,
+      "latitude": 51.34712136218633
+    }
+  },
+  {
+    "id": 13,
+    "name": "Real Madrid CF",
+    "stadium": "Santiago Bernabeu",
+    "country": "Spain",
+    "reputation": 5,
+    "description": "Real Madrid Club de Fútbol is a Spanish professional football club based in Madrid. Founded in 1902 as Madrid Football Club, the club has traditionally worn a white home kit since its inception. The honorific title real is Spanish for royal and was bestowed to the club by King Alfonso XIII in 1920 together with the royal crown in the emblem.",
+    "link": "https://en.wikipedia.org/wiki/Real_Madrid_CF",
+    "imageName": "RealMadrid",
+    "coordinates": {
+      "longitude": -3.6880763446188425,
+      "latitude": 40.45467015533635
+    }
+  },
+  {
+    "id": 14,
+    "name": "Sevilla FC",
+    "stadium": "Ramon Sanchez-Pizjuan",
+    "country": "Spain",
+    "reputation": 3,
+    "description": "Sevilla Fútbol Club is a Spanish professional football club based in Seville, the capital and largest city of the autonomous community of Andalusia, Spain. It plays in Spanish football's top flight, La Liga. Sevilla have won the UEFA Europa League six times, the most of any club. It is Spain's oldest sporting club solely devoted to football. The club was formed on 25 January 1890, with the Scottish born Edward Farquharson Johnston as their first president.",
+    "link": "https://en.wikipedia.org/wiki/Sevilla_FC",
+    "imageName": "Sevilla",
+    "coordinates": {
+      "longitude": -5.970690341797633,
+      "latitude": 37.38549638848426
+    }
+  },
+  {
+    "id": 15,
+    "name": "Tottenham Hotspur FC",
+    "stadium": "Tottenham Hotspur",
+    "country": "England",
+    "reputation": 3,
+    "description": "Tottenham Hotspur Football Club, commonly referred to as Tottenham is an English professional football club based in Tottenham, London. It competes in the Premier League, the top flight of English football. The team has played its home matches in the 62,850-capacity Tottenham Hotspur Stadium since April 2019. Founded in 1882, Tottenham's emblem is a cockerel standing upon a football, with the Latin motto Audere est Facere (to dare is to do). The club has traditionally worn white shirts and navy blue shorts home kit since the 1898–99 season.",
+    "link": "https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.",
+    "imageName": "Tottenham",
+    "coordinates": {
+      "longitude": -0.066043653511985,
+      "latitude": 51.60529705677611
+    }
+  },
+  {
+    "id": 16,
+    "name": "Villarreal CF",
+    "stadium": "Estadio de la Cerámica",
+    "country": "Spain",
+    "reputation": 3,
+    "description": "Villarreal Club de Fútbol, S.A.D. usually abbreviated to Villarreal CF or simply Villarreal, is a professional football club based in Villarreal, in Castellón in eastern Spain, that plays in La Liga, the top flight of Spanish football. Founded in 1923, the club spent much of its history in the lower divisions of Spanish football and made their La Liga debut only in 1998. In the 21st century, Villarreal gained some league stability, although they sustained relegation in 2012, rebounding the next year and then remaining in the top division to date.",
+    "link": "https://en.wikipedia.org/wiki/Villarreal_CF",
+    "imageName": "Villarreal",
+    "coordinates": {
+      "longitude": -0.10245159207643811,
+      "latitude": 39.945792776265954
+    }
+  }
+]
